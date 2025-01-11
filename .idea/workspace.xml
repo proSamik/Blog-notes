@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce76e0e-1179-4b58-8ef4-4a4cf4379820" name="Changes" comment="add- vps notes overview">
+    <list default="true" id="5ce76e0e-1179-4b58-8ef4-4a4cf4379820" name="Changes" comment="add- Deployment-essentials">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,18 +54,20 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
       </set>
     </attachedChunks>
   </component>
@@ -79,6 +82,12 @@
       <workItem from="1736235516043" duration="129000" />
       <workItem from="1736295857015" duration="2725000" />
       <workItem from="1736335658145" duration="7000" />
+      <workItem from="1736442240967" duration="2727000" />
+      <workItem from="1736515466309" duration="1589000" />
+      <workItem from="1736557772647" duration="2000" />
+      <workItem from="1736559209787" duration="15466000" />
+      <workItem from="1736586542281" duration="572000" />
+      <workItem from="1736587124290" duration="2023000" />
     </task>
     <task id="LOCAL-00001" summary="add- vps notes overview">
       <option name="closed" value="true" />
@@ -88,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736295915106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add- draft notes">
+      <option name="closed" value="true" />
+      <created>1736442488944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442488944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add- Deployment-essentials">
+      <option name="closed" value="true" />
+      <created>1736605410603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736605410603</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add- vps notes overview" />
-    <option name="LAST_COMMIT_MESSAGE" value="add- vps notes overview" />
+    <MESSAGE value="add- draft notes" />
+    <MESSAGE value="add- Deployment-essentials" />
+    <option name="LAST_COMMIT_MESSAGE" value="add- Deployment-essentials" />
   </component>
 </project>
