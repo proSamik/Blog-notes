@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce76e0e-1179-4b58-8ef4-4a4cf4379820" name="Changes" comment="add- Deployment-essentials">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="5ce76e0e-1179-4b58-8ef4-4a4cf4379820" name="Changes" comment="add- VPS checklist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,14 @@
       <workItem from="1736557772647" duration="2000" />
       <workItem from="1736559209787" duration="15466000" />
       <workItem from="1736586542281" duration="572000" />
-      <workItem from="1736587124290" duration="2023000" />
+      <workItem from="1736587124290" duration="4539000" />
+      <workItem from="1736625438558" duration="1950000" />
+      <workItem from="1736669238904" duration="6959000" />
+      <workItem from="1737414028070" duration="1878000" />
+      <workItem from="1737475930985" duration="691000" />
+      <workItem from="1737491869450" duration="43000" />
+      <workItem from="1737491918438" duration="1000" />
+      <workItem from="1737491938364" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="add- vps notes overview">
       <option name="closed" value="true" />
@@ -113,7 +119,47 @@
       <option name="project" value="LOCAL" />
       <updated>1736605410603</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add- images">
+      <option name="closed" value="true" />
+      <created>1736618828392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736618828392</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update- ide settings">
+      <option name="closed" value="true" />
+      <created>1736618839833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736618839833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add- project details">
+      <option name="closed" value="true" />
+      <created>1736618851089</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736618851089</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add- Tmux blog">
+      <option name="closed" value="true" />
+      <created>1736618864371</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736618864371</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add- VPS checklist">
+      <option name="closed" value="true" />
+      <created>1736618874383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736618874383</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +169,11 @@
     <MESSAGE value="add- vps notes overview" />
     <MESSAGE value="add- draft notes" />
     <MESSAGE value="add- Deployment-essentials" />
-    <option name="LAST_COMMIT_MESSAGE" value="add- Deployment-essentials" />
+    <MESSAGE value="add- images" />
+    <MESSAGE value="update- ide settings" />
+    <MESSAGE value="add- project details" />
+    <MESSAGE value="add- Tmux blog" />
+    <MESSAGE value="add- VPS checklist" />
+    <option name="LAST_COMMIT_MESSAGE" value="add- VPS checklist" />
   </component>
 </project>
