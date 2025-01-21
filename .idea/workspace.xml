@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce76e0e-1179-4b58-8ef4-4a4cf4379820" name="Changes" comment="add- VPS checklist">
+    <list default="true" id="5ce76e0e-1179-4b58-8ef4-4a4cf4379820" name="Changes" comment="check">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +94,8 @@
       <workItem from="1737491869450" duration="43000" />
       <workItem from="1737491918438" duration="1000" />
       <workItem from="1737491938364" duration="4000" />
+      <workItem from="1737491959647" duration="92000" />
+      <workItem from="1737492064188" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="add- vps notes overview">
       <option name="closed" value="true" />
@@ -159,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736618874383</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="check">
+      <option name="closed" value="true" />
+      <created>1737491974224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737491974225</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +184,7 @@
     <MESSAGE value="add- project details" />
     <MESSAGE value="add- Tmux blog" />
     <MESSAGE value="add- VPS checklist" />
-    <option name="LAST_COMMIT_MESSAGE" value="add- VPS checklist" />
+    <MESSAGE value="check" />
+    <option name="LAST_COMMIT_MESSAGE" value="check" />
   </component>
 </project>
