@@ -17,12 +17,11 @@
 ## Project Overview
 A well-structured README is essential for any project. Here are the key elements to include:
 
-<div style="position: relative; width: 100%; left: 0; margin: 20px 0;">
-<svg width="200" height="60" viewBox="0 0 200 60" style="display: block;">
+
+<svg width="200" height="60" viewBox="0 0 200 60" style="position: relative; width: 100%; left: 0; margin: 20px 0;">
   <rect x="10" y="10" width="180" height="40" rx="5" fill="#4CAF50" opacity="0.8"/>
   <text x="100" y="35" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Project Overview</text>
 </svg>
-</div>
 
 - Clear project title
 - Brief description
