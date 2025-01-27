@@ -12,7 +12,8 @@
 7. [Deployment](#deployment)
 8. [Security](#security)
 9. [Performance](#performance)
-10. [Tips for Effective READMEs](#tips-for-effective-readmes)
+10. [Licensing](#licensing)
+11. [Tips for Effective READMEs](#tips-for-effective-readmes)
 
 ## Project Overview
 A well-structured README is essential for any project. Here are the key elements to include:
@@ -178,3 +179,42 @@ Include performance metrics and optimization guidelines:
 - Document breaking changes
 - Maintain a changelog
 - Provide support contacts
+
+## Licensing
+Choosing the right license is crucial for your project. Here's a guide to common licenses:
+
+### Popular Open Source Licenses
+
+#### MIT License
+- Most permissive and popular
+- Allows commercial use, modification, distribution
+- Minimal restrictions
+- Best for: Libraries, frameworks, and projects wanting maximum adoption
+
+#### Apache License 2.0
+- Similar to MIT but with patent protection
+- Includes explicit grant of patent rights
+- Best for: Enterprise-level projects, especially those with patent concerns
+
+#### GNU General Public License (GPL)
+- Ensures derivative works remain open source
+- Requires source code disclosure
+- Versions: GPLv2, GPLv3
+- Best for: Projects prioritizing software freedom and open source principles
+
+#### BSD Licenses
+- Similar to MIT but with variations
+- Different versions (2-Clause, 3-Clause)
+- Best for: Academic projects and basic open source software
+
+### How to Choose
+1. Consider your project goals
+2. Evaluate commercial implications
+3. Check compatibility with dependencies
+4. Review company policies (if applicable)
+
+### License Implementation
+1. Add LICENSE file to root directory
+2. Include license notice in source files
+3. Document license in README
+4. Update package metadata
