@@ -10,7 +10,7 @@
 ## Project Overview
 A well-structured README is essential for any project. Here are the key elements to include:
 
-<svg width="200" height="60" viewBox="0 0 200 60">
+<svg width="200" height="60" viewBox="0 0 200 60" align="left" style="margin: 20px 0;">
   <rect x="10" y="10" width="180" height="40" rx="5" fill="#4CAF50" opacity="0.8"/>
   <text x="100" y="35" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Project Overview</text>
 </svg>
@@ -31,7 +31,7 @@ cd project-name
 npm install
 ```
 
-<svg width="200" height="60" viewBox="0 0 200 60">
+<svg width="200" height="60" viewBox="0 0 200 60" align="left" style="margin: 20px 0;">
   <rect x="10" y="10" width="180" height="40" rx="5" fill="#2196F3" opacity="0.8"/>
   <text x="100" y="35" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Installation Guide</text>
 </svg>
@@ -46,7 +46,7 @@ Include:
 ## Contributing
 Explain how others can contribute:
 
-<svg width="200" height="100" viewBox="0 0 200 100">
+<svg width="200" height="100" viewBox="0 0 200 100" align="left" style="margin: 20px 0;">
   <circle cx="50" cy="50" r="30" fill="#FFC107" opacity="0.8"/>
   <circle cx="100" cy="50" r="30" fill="#FF5722" opacity="0.8"/>
   <circle cx="150" cy="50" r="30" fill="#9C27B0" opacity="0.8"/>
@@ -62,13 +62,13 @@ Explain how others can contribute:
 Enhance your README with visual elements:
 
 ### Project Status Badge
-<svg width="150" height="40" viewBox="0 0 150 40">
+<svg width="150" height="40" viewBox="0 0 150 40" align="left" style="margin: 20px 0;">
   <rect x="5" y="5" width="140" height="30" rx="15" fill="#4CAF50"/>
   <text x="75" y="25" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Active</text>
 </svg>
 
 ### Version Badge
-<svg width="150" height="40" viewBox="0 0 150 40">
+<svg width="150" height="40" viewBox="0 0 150 40" align="left" style="margin: 20px 0;">
   <rect x="5" y="5" width="140" height="30" rx="15" fill="#2196F3"/>
   <text x="75" y="25" font-family="Arial" font-size="14" fill="white" text-anchor="middle">v1.0.0</text>
 </svg>
