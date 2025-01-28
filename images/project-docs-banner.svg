@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background with gradient -->
+    <defs>
+        <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#2C3E50"/>
+            <stop offset="100%" style="stop-color:#3498DB"/>
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg-gradient)"/>
+    
+    <!-- Decorative elements -->
+    <circle cx="100" cy="150" r="40" fill="#ECF0F1" opacity="0.1"/>
+    <circle cx="1100" cy="150" r="60" fill="#ECF0F1" opacity="0.1"/>
+    
+    <!-- Main text -->
+    <text x="600" y="140" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Project Documentation</text>
+    <text x="600" y="190" font-family="Arial, sans-serif" font-size="24" fill="#ECF0F1" text-anchor="middle">Best Practices &amp; Guidelines</text>
+    
+    <!-- Decorative lines -->
+    <line x1="300" y1="220" x2="900" y2="220" stroke="#ECF0F1" stroke-width="2" opacity="0.3"/>
+</svg>

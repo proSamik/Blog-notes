@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Frontend Layer -->
+  <rect x="100" y="50" width="600" height="100" rx="10" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Frontend Layer</text>
+  <rect x="150" y="100" width="120" height="30" rx="5" fill="#bbdefb" stroke="#1976d2"/>
+  <text x="210" y="120" text-anchor="middle" font-family="Arial" font-size="12">UI Components</text>
+  <rect x="340" y="100" width="120" height="30" rx="5" fill="#bbdefb" stroke="#1976d2"/>
+  <text x="400" y="120" text-anchor="middle" font-family="Arial" font-size="12">State Management</text>
+  <rect x="530" y="100" width="120" height="30" rx="5" fill="#bbdefb" stroke="#1976d2"/>
+  <text x="590" y="120" text-anchor="middle" font-family="Arial" font-size="12">API Client</text>
+
+  <!-- API Layer -->
+  <rect x="100" y="200" width="600" height="100" rx="10" fill="#e8f5e9" stroke="#388e3c" stroke-width="2"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">API Layer</text>
+  <rect x="150" y="250" width="120" height="30" rx="5" fill="#c8e6c9" stroke="#388e3c"/>
+  <text x="210" y="270" text-anchor="middle" font-family="Arial" font-size="12">REST Endpoints</text>
+  <rect x="340" y="250" width="120" height="30" rx="5" fill="#c8e6c9" stroke="#388e3c"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Arial" font-size="12">Authentication</text>
+  <rect x="530" y="250" width="120" height="30" rx="5" fill="#c8e6c9" stroke="#388e3c"/>
+  <text x="590" y="270" text-anchor="middle" font-family="Arial" font-size="12">Validation</text>
+
+  <!-- Business Layer -->
+  <rect x="100" y="350" width="600" height="100" rx="10" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Business Layer</text>
+  <rect x="150" y="400" width="120" height="30" rx="5" fill="#ffe0b2" stroke="#f57c00"/>
+  <text x="210" y="420" text-anchor="middle" font-family="Arial" font-size="12">Business Logic</text>
+  <rect x="340" y="400" width="120" height="30" rx="5" fill="#ffe0b2" stroke="#f57c00"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial" font-size="12">Services</text>
+  <rect x="530" y="400" width="120" height="30" rx="5" fill="#ffe0b2" stroke="#f57c00"/>
+  <text x="590" y="420" text-anchor="middle" font-family="Arial" font-size="12">Domain Models</text>
+
+  <!-- Data Layer -->
+  <rect x="100" y="500" width="600" height="70" rx="10" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Data Layer</text>
+  <rect x="150" y="525" width="120" height="30" rx="5" fill="#e1bee7" stroke="#7b1fa2"/>
+  <text x="210" y="545" text-anchor="middle" font-family="Arial" font-size="12">Database</text>
+  <rect x="340" y="525" width="120" height="30" rx="5" fill="#e1bee7" stroke="#7b1fa2"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial" font-size="12">Cache</text>
+  <rect x="530" y="525" width="120" height="30" rx="5" fill="#e1bee7" stroke="#7b1fa2"/>
+  <text x="590" y="545" text-anchor="middle" font-family="Arial" font-size="12">File Storage</text>
+
+  <!-- Connecting Lines -->
+  <line x1="400" y1="150" x2="400" y2="200" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="300" x2="400" y2="350" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="450" x2="400" y2="500" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+</svg>

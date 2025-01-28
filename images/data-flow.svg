@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+
+  <!-- Client Request -->
+  <rect x="50" y="50" width="150" height="60" rx="10" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+  <text x="125" y="85" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Client Request</text>
+
+  <!-- API Gateway -->
+  <rect x="325" y="50" width="150" height="60" rx="10" fill="#e8f5e9" stroke="#388e3c" stroke-width="2"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">API Gateway</text>
+
+  <!-- Authentication -->
+  <rect x="600" y="50" width="150" height="60" rx="10" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
+  <text x="675" y="85" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Authentication</text>
+
+  <!-- Request Validation -->
+  <rect x="600" y="200" width="150" height="60" rx="10" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="675" y="235" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Request Validation</text>
+
+  <!-- Business Logic -->
+  <rect x="325" y="200" width="150" height="60" rx="10" fill="#e1f5fe" stroke="#0288d1" stroke-width="2"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Business Logic</text>
+
+  <!-- Data Access -->
+  <rect x="50" y="200" width="150" height="60" rx="10" fill="#fce4ec" stroke="#c2185b" stroke-width="2"/>
+  <text x="125" y="235" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Data Access</text>
+
+  <!-- Database -->
+  <rect x="50" y="350" width="150" height="60" rx="10" fill="#f5f5f5" stroke="#616161" stroke-width="2"/>
+  <text x="125" y="385" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Database</text>
+
+  <!-- Cache -->
+  <rect x="325" y="350" width="150" height="60" rx="10" fill="#fff8e1" stroke="#ffa000" stroke-width="2"/>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Cache</text>
+
+  <!-- Response Processing -->
+  <rect x="325" y="500" width="150" height="60" rx="10" fill="#e8eaf6" stroke="#3f51b5" stroke-width="2"/>
+  <text x="400" y="535" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Response Processing</text>
+
+  <!-- Flow Arrows -->
+  <line x1="200" y1="80" x2="325" y2="80" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="475" y1="80" x2="600" y2="80" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="675" y1="110" x2="675" y2="200" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="600" y1="230" x2="475" y2="230" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="325" y1="230" x2="200" y2="230" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="125" y1="260" x2="125" y2="350" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="200" y1="380" x2="325" y2="380" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="410" x2="400" y2="500" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Process Labels -->
+  <text x="262" y="60" text-anchor="middle" font-family="Arial" font-size="12">HTTP Request</text>
+  <text x="537" y="60" text-anchor="middle" font-family="Arial" font-size="12">Auth Check</text>
+  <text x="690" y="160" text-anchor="middle" font-family="Arial" font-size="12">Validate</text>
+  <text x="262" y="210" text-anchor="middle" font-family="Arial" font-size="12">Process</text>
+  <text x="125" y="310" text-anchor="middle" font-family="Arial" font-size="12">Query</text>
+  <text x="262" y="360" text-anchor="middle" font-family="Arial" font-size="12">Cache Check</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial" font-size="12">Format Response</text>
+</svg>
