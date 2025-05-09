@@ -1,6 +1,7 @@
 
+[Guardrails](./images/AI-Agent-SDK-Guardarails.png)
 
-Think your Agent is safe without guardrails?
+**Think your Agent is safe without guardrails?**
 
 That’s like leaving your front door wide open.
 
