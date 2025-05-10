@@ -1,11 +1,10 @@
-
-[Guardrails](./images/AI-Agent-SDK-Guardarails.png)
-
 **Think your Agent is safe without guardrails?**
 
 That’s like leaving your front door wide open.
 
 7 types of guardrails for your Agent 👇
+
+![Guardrails](./images/AI-Agent-SDK-Guardarails.png)
 
 1/ Relevance classifier:
 
