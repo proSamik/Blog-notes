@@ -1,11 +1,3 @@
----
-description: 
-globs: 
-alwaysApply: false
----
-# GrabLink - Lead Magnet SaaS Kit - Architecture & Data Flows
-# Updated: June 2025
-
 ## System Architecture Overview
 
 GrabLink is a comprehensive Lead Magnet SaaS platform built with modern web technologies, featuring multi-project support, advanced analytics, template system, and robust security. The architecture follows a multi-layered approach with clear separation of concerns.
