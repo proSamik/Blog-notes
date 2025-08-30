@@ -95,6 +95,8 @@ import { user as UserSchema,
 database: drizzleAdapter(db, {
   provider: "pg",
   schema: {
+    user: UserSchema,
+    account: AccountSchema,
     session: SessionSchema,
     verification: VerificationSchema,
     oauthApplication,
