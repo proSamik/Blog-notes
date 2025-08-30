@@ -82,6 +82,16 @@ export type oauthConsentEntity = typeof oauthConsent.$inferSelect;
 In the `drizzleAdapter` database configuration, add the new tables:
 
 ```typescript
+import { user as UserSchema, 
+  account as AccountSchema, 
+  session as SessionSchema,
+  verification as VerificationSchema,
+  oauthApplication,
+  oauthAccessToken,
+  oauthConsent
+} from "@/lib/db/schema";
+
+
 database: drizzleAdapter(db, {
   provider: "pg",
   schema: {
